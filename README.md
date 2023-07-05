@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello! 👋
+- 🌱 I’m currently learning Rust using the **#100daysOfCode** challenge as motivation.
+- 📫 Find me on any of the links on my profile.
+ 
 <!--
 **carlocarfora/carlocarfora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
