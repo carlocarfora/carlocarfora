@@ -1,6 +1,6 @@
 ### Hello! 👋
 - 🌱 I’m currently learning Rust using the **#100daysOfCode** challenge as motivation.
-- Check out my progress here: https://github.com/carlocarfora/100-days-of-code/blob/master/log.md
+- 🔭 Check out my progress here: https://github.com/carlocarfora/100-days-of-code/blob/master/log.md
 - 📫 Find me on any of the links on my profile.
  
 <!--
